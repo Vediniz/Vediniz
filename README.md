@@ -2,4 +2,4 @@
 
 
 Skills: 
-<i class="devicon-python-plain colored"></i> <i class="devicon-gitlab-plain colored"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
