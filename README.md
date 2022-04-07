@@ -4,8 +4,10 @@
 </p>
 
 <div>
-  <p align = "center"> <a href="https://www.linkedin.com/in/veruska-diniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the         badge&logo=linkedin&logoColor=white" target="_blank" width="90" height="20"></a> </p>
-  <p align = "center"> <a href = "mailto:veruskalima138@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"     target="_blank" width="90" height="20"></a> </p>
+  <p align = "center"> <a href="https://www.linkedin.com/in/veruska-diniz" target="_blank">  Linkedin </a>|
+   <a href = "mailto:veruskalima138@gmail.com">  Gmail </a> |
+    <a href="https://www.kaggle.com/veruskadiniz" target="_blank">  Kaggle </a></p>
+
 </div>
 
 
@@ -13,7 +15,6 @@
 <h2 align = "center" > Sobre: </h2>
   <p align = "center" >
    Me chamo Veruska, 19 anos, curso o 3° semestre de Análise e Desenvolvimento de Sistemas. Este repositório é destinado a projetos <i> back-end </i> e <i> data science </i>.
-   Estou aberta a discussão de novos projetos e oportunidades pelos canais de comunicação acima (linkedin, gmail). 
   </p>
 </div>
 
