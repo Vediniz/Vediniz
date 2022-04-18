@@ -33,7 +33,7 @@
 </div>
 <div>
   <p align = "center">
-      <a href="https://github.com/Vediniz">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vediniz&layout=compact&langs_count=7&theme=bear"/><img height="150em"            src="https://github-readme-stats.vercel.app/api?username=Vediniz&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+      <a href="https://github.com/Vediniz"> 
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vediniz&layout=compact&langs_count=7&theme=bear"/>  <img height="150em"            src="https://github-readme-stats.vercel.app/api?username=Vediniz&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
     </p>
 </div>
