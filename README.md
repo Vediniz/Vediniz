@@ -14,7 +14,7 @@
 <div>
 <h2 align = "center" > Sobre: </h2>
   <p align = "center" >
-   Me chamo Veruska, 19 anos, curso o 5° semestre de Análise e Desenvolvimento de Sistemas. Este repositório é destinado a projetos <i> back-end </i> e <i> data science </i>.
+   Me chamo Veruska, 20 anos, curso o 5° semestre de Análise e Desenvolvimento de Sistemas. Este repositório é destinado a projetos <i> back-end </i> e <i> data science </i>.
   </p>
 </div>
 
