@@ -1,39 +1,38 @@
-
-<p align = "center">
-  <img src = "https://user-images.githubusercontent.com/82723849/160478772-a3dac01d-598f-4123-a846-62e04f9cb6ce.png"> </img>
-</p>
-
-<div>
-  <p align = "center"> <a href="https://www.linkedin.com/in/veruska-diniz" target="_blank">  Linkedin </a>|
-   <a href = "mailto:veruskalima138@gmail.com">  Gmail </a> |
-    <a href="https://www.kaggle.com/veruskadiniz" target="_blank">  Kaggle </a></p>
-
+<div style="display: flex; align-items: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?ont=Fira+Code&duration=800&pause=600&color=FFC932FF&background=18181800&center=true&vCenter=true&width=435&lines=Hey+Eu+Sou+a+Veh!" alt="Typing SVG" />
+  </a>
+  <img src="https://github.com/Vediniz/Vediniz/assets/82723849/3e0999ba-6b1f-4ee0-86f6-b376940595fd" alt="Image" />
 </div>
 
 
-<div>
-<h2 align = "center" > Sobre: </h2>
-  <p align = "center" >
-   Me chamo Veruska, 20 anos, curso o 5° semestre de Análise e Desenvolvimento de Sistemas. Este repositório é destinado a projetos <i> back-end </i> e <i> data science </i>.
-  </p>
-</div>
+#### Sobre mim
+
+Olá! Meu nome é Veruska (ou apenas Veh). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Americana e sou estagiária em engenharia de testes, onde também me envolvo com automação de testes.
+
+#### Interesses e Hobbies
+
+- 🎲 Jogar RPG: Adoro embarcar em aventuras fantásticas e criar histórias envolventes com amigos.
+- 📚 Filmes e Livros de Ficção: Sou apaixonada por histórias de ficção, sejam elas em livros ou nas telas do cinema.
+- 🎮 Jogos Eletrônicos: "Life is Strange" é meu favorito, mas também gosto de explorar outros mundos virtuais.
+- 📖 Estudar: Aprender coisas novas é uma paixão para mim, especialmente na área de tecnologia.
+- 👥 Conhecer Pessoas: Adoro fazer novas amizades e conectar com pessoas com interesses similares.
+
+#### Objetivo Atual
+
+- 📚 Aprofundar conhecimentos em Machine Learning: Estou interessada em aprender mais sobre ML e suas aplicações na área de desenvolvimento de software.
+- :computer: Finalizar o desenvolvimento de "Bulbdat" um sistema de gestão de energia.
+  
+#### Uma citação
+
+> "Amor Fati" - Ama teu destino, seja ele qual for. - Friedrich Nietzsche
 
 
-<hr>
+Vamos compartilhar ideias e conhecimento! Me encontre nas redes sociais e vamos aprender juntos!
 
-<div>
-<h2 align = "center"> Áreas de Conhecimento: <h2>
-<p align = "center">
-<img align = "top"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width = "50" height = "50" />  
-<img align = "top"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width = "50" height = "50" />  
-<img align = "top"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width = "65" height = "65" /> 
-<img align = "top"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width = "50" height = "50" /> 
-<img align = "top" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
- </p>
-</div>
-<div>
-  <p align = "center">
-      <a href="https://github.com/Vediniz"> 
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vediniz&layout=compact&langs_count=7&theme=bear"/>  <img height="150em"            src="https://github-readme-stats.vercel.app/api?username=Vediniz&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-    </p>
-</div>
+  🌐 [LinkedIn](https://www.linkedin.com/in/veruska-diniz/)  
+  📷 [Instagram](https://www.instagram.com/veruskadiniz/)
+
+
+
+Sinta-se à vontade para me contatar!
