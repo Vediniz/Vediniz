@@ -2,9 +2,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?ont=Fira+Code&duration=5000&pause=3000&color=FFC932FF&background=18181800&center=true&vCenter=true&width=435&lines=Olá,+Bem+Vindo!" alt="Typing SVG" />
   </a>
-  <img src="https://github.com/Vediniz/Vediniz/assets/82723849/3e0999ba-6b1f-4ee0-86f6-b376940595fd" alt="Image" />
+  <img src="https://github.com/Vediniz/Vediniz/assets/82723849/661486f0-9cff-46c0-8531-ef43a0a3c7e9" alt="Image" />
 </div>
 
+----
 
 #### Sobre mim
 
@@ -30,9 +31,22 @@ Olá! Meu nome é Veruska (ou apenas Veh). Atualmente, estou cursando Análise e
 
 Vamos compartilhar ideias e conhecimento! Me encontre nas redes sociais e vamos aprender juntos!
 
-  🌐 [LinkedIn](https://www.linkedin.com/in/veruska-diniz/)  
-  📷 [Instagram](https://www.instagram.com/veruskadiniz/)
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/veruska-diniz/" target="_blank">
+    🌐 LinkedIn
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/veruskadiniz/" target="_blank">
+    📷 Instagram
+  </a>
+</p>
+
+<p align="center">
+  Sinta-se à vontade para me contatar!
+</p>
+
+---
 
 
-
-Sinta-se à vontade para me contatar!
