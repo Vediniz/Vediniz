@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?ont=Fira+Code&duration=5000&pause=3000&color=FFC932FF&background=18181800&center=true&vCenter=true&width=435&lines=Olá,+Bem+Vindo!" alt="Typing SVG" />
   </a>
@@ -16,27 +16,34 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vediniz&show_icons=true&theme=gruvbox&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vediniz&show_icons=true&theme=gruvbox&rank_icon=github" alt="GitHub stats" style="width: 39%;" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vediniz&hide_progress=true&theme=gruvbox" alt="Top Langs" />
-</div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vediniz&hide_progress=true&theme=gruvbox" alt="Top Langs" style="width: 35%;" />
 
+</div>
+  
 #### Sobre mim
 
 Olá! Meu nome é Veruska (ou apenas Veh). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Americana e sou estagiária em engenharia de testes, onde também me envolvo com automação de testes.
 
+
 #### Interesses e Hobbies
 
-- 🎲 Jogar RPG: Adoro embarcar em aventuras fantásticas e criar histórias envolventes com amigos.
-- 📚 Filmes e Livros de Ficção: Sou apaixonada por histórias de ficção, sejam elas em livros ou nas telas do cinema.
-- 🎮 Jogos Eletrônicos: "Life is Strange" é meu favorito, mas também gosto de explorar outros mundos virtuais.
-- 📖 Estudar: Aprender coisas novas é uma paixão para mim, especialmente na área de tecnologia.
-- 👥 Conhecer Pessoas: Adoro fazer novas amizades e conectar com pessoas com interesses similares.
+  🎲 Jogar RPG: Adoro embarcar em aventuras fantásticas e criar histórias envolventes com amigos.
+   
+  📚 Filmes e Livros de Ficção: Sou apaixonada por histórias de ficção, sejam elas em livros ou nas telas do cinema.
+   
+  🎮 Jogos Eletrônicos: "Life is Strange" é meu favorito, mas também gosto de explorar outros mundos virtuais.
+   
+  📖 Estudar: Aprender coisas novas é uma paixão para mim, especialmente na área de tecnologia.
+   
+  👥 Conhecer Pessoas: Adoro fazer novas amizades e conectar com pessoas com interesses similares.
 
 #### Objetivo Atual
 
-- 📚 Aprofundar conhecimentos em Machine Learning: Estou interessada em aprender mais sobre ML e suas aplicações na área de desenvolvimento de software.
-- :computer: Finalizar o desenvolvimento de "Bulbdat" um sistema de gestão de energia.
+📚 Aprofundar conhecimentos em Machine Learning: Estou interessada em aprender mais sobre ML e suas aplicações na área de desenvolvimento de software.
+
+:computer: Finalizar o desenvolvimento de "Bulbdat" um sistema de gestão de energia.
   
 #### Uma citação
 
@@ -44,6 +51,8 @@ Olá! Meu nome é Veruska (ou apenas Veh). Atualmente, estou cursando Análise e
 
 
 Vamos compartilhar ideias e conhecimento! Me encontre nas redes sociais e vamos aprender juntos!
+</div>
+
 
 ---
 
@@ -63,4 +72,4 @@ Vamos compartilhar ideias e conhecimento! Me encontre nas redes sociais e vamos 
 
 ---
 
-
+</div>
