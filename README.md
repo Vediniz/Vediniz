@@ -24,7 +24,7 @@
   
 #### Sobre mim
 
-Olá! Meu nome é Veruska (ou apenas Veh). Atualmente, sou formada em Análise e Desenvolvimento de Sistemas na Fatec de Americana e sou Analista de engenharia de testes, onde também me envolvo com automação de testes.
+Olá! Meu nome é Veruska (ou apenas Veh). Sou formada em Análise e Desenvolvimento de Sistemas na Fatec de Americana e sou Analista de engenharia de testes, onde também me envolvo com automação de testes.
 
 
 #### Interesses e Hobbies
