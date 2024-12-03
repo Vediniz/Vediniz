@@ -1,75 +1,29 @@
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?ont=Fira+Code&duration=5000&pause=3000&color=FFC932FF&background=18181800&center=true&vCenter=true&width=435&lines=Olá,+Bem+Vindo!" alt="Typing SVG" />
-  </a>
-  <img src="https://github.com/Vediniz/Vediniz/assets/82723849/661486f0-9cff-46c0-8531-ef43a0a3c7e9" alt="Image" />
+<div style="display: flex; justify-content: center;">
 
-  <br>
+  <div>
+    <img src="./pixabay-sea.png" alt="Your Avatar" height="700" width="400" max-width="400" style="margin-right: 20px;">
+  </div>
+<div>
+  <div style="text-align: center; max-width: 400px;">
+    <h1>Hi there! I'm Veruska 🌊</h1>
+    <h3>🤿 Software Engineer | QA Specialist | Web Developer</h3>
+    <br>
+    <p> I love creating cool stuff and learning new technologies along the way.
+    <br>
+    Right now, I'm focused on <strong>Spring Boot (Java)</strong> and learning more about <strong>Kotlin</strong> for mobile apps</p>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <h3>🌴 About Me</h3>
+  <p>I work as a QA Engineer, but I'm passionate about development. And I’m always working on improving my skills in backend, frontend, and mobile development. Always learning something new!</p>
 
-  <br>
+  <h3>⚓ Stack</h3>
+  <ul style="list-style: none;">
+    <li><strong> 🦭 Languages</strong>: Java, Python, C, Scala, JavaScript, Bash Script</li>
+    <li><strong> 🐙 Frameworks</strong>:  Spring Boot <i>(Java)</i>, Fast API, MERN Stack <i>(Javascript)</i>, <i>(Python), Robot Framework <i>(Python)</i>, Selenium <i>(Python)</i>, </i></li>
+    <li><strong> 🐬 Tools</strong>: Git, Docker, GitLab CI/CD, Postman, Jenkins</li>
+  </ul>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vediniz&show_icons=true&theme=gruvbox&rank_icon=github" alt="GitHub stats" style="width: 39%;" />
-  &nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vediniz&hide_progress=true&theme=gruvbox" alt="Top Langs" style="width: 35%;" />
-
-</div>
-  
-#### Sobre mim
-
-Olá! Meu nome é Veruska (ou apenas Veh). Sou formada em Análise e Desenvolvimento de Sistemas na Fatec de Americana e sou Analista de engenharia de testes, onde também me envolvo com automação de testes.
-
-
-#### Interesses e Hobbies
-
-  🎲 Jogar RPG: Adoro embarcar em aventuras fantásticas e criar histórias envolventes com amigos.
-   
-  📚 Filmes e Livros de Ficção: Sou apaixonada por histórias de ficção, sejam elas em livros ou nas telas do cinema.
-   
-  🎮 Jogos Eletrônicos: "Life is Strange" é meu favorito, mas também gosto de explorar outros mundos virtuais.
-   
-  📖 Estudar: Aprender coisas novas é uma paixão para mim, especialmente na área de tecnologia.
-   
-  👥 Conhecer Pessoas: Adoro fazer novas amizades e conectar com pessoas com interesses similares.
-
-#### Objetivo Atual
-
-📚 Aprofundar conhecimentos em Machine Learning: Estou interessada em aprender mais sobre ML e suas aplicações na área de desenvolvimento de software.
-
-:computer: Finalizar o desenvolvimento de "Bulbdat" um sistema de gestão de energia.
-  
-#### Uma citação
-
-> "Amor Fati" - Ama teu destino, seja ele qual for. - Friedrich Nietzsche
-
-
-Vamos compartilhar ideias e conhecimento! Me encontre nas redes sociais e vamos aprender juntos!
-</div>
-
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/veruska-diniz/" target="_blank">
-    🌐 LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/veruskadiniz/" target="_blank">
-    📷 Instagram
-  </a>
-</p>
-
-<p align="center">
-  Sinta-se à vontade para me contatar!
-</p>
-
----
+  <h3>🐚 Let's Connect</h3>
+  <p><strong><a href="https://github.com/yourusername">LinkedIn</a></strong> | <strong><a href="mailto:your-email@example.com">Email</a></strong><p>
+  </div>
 
 </div>
