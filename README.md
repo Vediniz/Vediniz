@@ -6,7 +6,7 @@
     <td>
       <div align="center">
         <h1>Hi there! I'm Veruska 🌊</h1>
-        <h3>🤿 Software Engineer | QA Specialist | Web Developer</h3>
+        <h3>🤿 Software Developer | QA Specialist | Web Developer</h3>
         <br>
         <p>I love creating cool stuff and learning new technologies along the way.<br>
         Right now, I'm focused on <strong>Spring Boot (Java)</strong> and learning more about <strong>Kotlin</strong> for mobile apps.</p>
