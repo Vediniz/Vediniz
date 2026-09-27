@@ -6,7 +6,7 @@ Currently working with **Go** and going deeper into **Java & Spring Boot**.
 
 ---
 
-### 🛠️ What I work with
+### What I work with
 
 **Languages**
 `Go` · `Java` · `Python` · `JavaScript`
@@ -25,21 +25,21 @@ Currently working with **Go** and going deeper into **Java & Spring Boot**.
 
 ---
 
-### 🌱 Currently exploring
+### Currently exploring
 
 `Go` · `Java` · `Spring Boot` · `Data Structures` · `Algorithms` · `System Design`
 
 ---
 
-### 🌎 Languages
+### Languages
 
-🇧🇷 Portuguese — Native
-🇺🇸 English — Advanced
-🇪🇸 Spanish — Advanced
+🇧🇷 Portuguese — Native  
+🇺🇸 English — Advanced  
+🇪🇸 Spanish — Advanced  
 🇨🇳 Mandarin Chinese — Beginner
 
 ---
 
-### 📫 Let's connect
+### Let's connect
 
 [LinkedIn](https://linkedin.com/in/veruska-diniz) · [Email](mailto:veruskalima138@gmail.com)
