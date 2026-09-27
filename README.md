@@ -1,10 +1,12 @@
-# Hey, I'm Veruska 👋
+# Hey, I'm Veruska =]
 
 ### Software Engineer · Backend Developer
 
-Building backend systems with **Go**, while diving deeper into **Java & Spring Boot**.
+Currently working with **Go** and going deeper into **Java & Spring Boot**.
 
-### Tech Stack
+---
+
+### 🛠️ What I work with
 
 **Languages**
 `Go` · `Java` · `Python` · `JavaScript`
@@ -15,19 +17,29 @@ Building backend systems with **Go**, while diving deeper into **Java & Spring B
 **Databases**
 `PostgreSQL` · `MongoDB` · `MySQL`
 
-**Testing**
+**Testing & Automation**
 `Pytest` · `Selenium` · `Robot Framework` · `Gatling` · `Postman`
 
 **DevOps & Tools**
 `Docker` · `GitLab CI/CD` · `Jenkins` · `Git`
 
-### Languages
+---
 
-🇧🇷 Portuguese — Native  
-🇺🇸 English — Advanced  
-🇪🇸 Spanish — Advanced  
+### 🌱 Currently exploring
+
+`Go` · `Java` · `Spring Boot` · `Data Structures` · `Algorithms` · `System Design`
+
+---
+
+### 🌎 Languages
+
+🇧🇷 Portuguese — Native
+🇺🇸 English — Advanced
+🇪🇸 Spanish — Advanced
 🇨🇳 Mandarin Chinese — Beginner
 
-### Connect
+---
+
+### 📫 Let's connect
 
 [LinkedIn](https://linkedin.com/in/veruska-diniz) · [Email](mailto:veruskalima138@gmail.com)
